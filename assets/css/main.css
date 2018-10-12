@@ -1,6 +1,12 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
+/*
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -156,21 +162,13 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	h1,
-	h2,
-	h3,
-	h4,
-	h5,
-	h6 .h-title {
+	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
-	}
-.h-title{
-		font-size: 3.35em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -179,7 +177,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2.35em;
+		font-size: 1.35em;
 		line-height: 1.75em;
 	}
 
